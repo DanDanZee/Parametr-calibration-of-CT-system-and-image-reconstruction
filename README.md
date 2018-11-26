@@ -27,3 +27,23 @@ Analyze the accuracy and stability of parameter calibration in (1).
 On this basis, design new templates and establish corresponding calibration models to improve the calibration accuracy and stability, 
 and explain the reasons.
 
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/DanDanZee/Parametr-calibration-of-CT-system-and-image-reconstruction/raw/master/img/CT系统示意图.jpg" > Fig.1</center></td>
+        <td ><center><img src="https://github.com/DanDanZee/Parametr-calibration-of-CT-system-and-image-reconstruction/raw/master/img/模板示意图.png" > Fig.2 </center></td>
+        <td ><center><img src="https://github.com/DanDanZee/Parametr-calibration-of-CT-system-and-image-reconstruction/raw/master/img/10个位置示意图.png" >Fig.3</center></td>
+    </tr>
+</table>
+
+
+Solution 
+---
+solution report can be viewed at **solution report.pdf**
+<br>code and answer in **支撑材料**  
+reconstruction img:
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/DanDanZee/Parametr-calibration-of-CT-system-and-image-reconstruction/raw/master/img/tu2.bmp" > </center></td>
+        <td ><center><img src="https://github.com/DanDanZee/Parametr-calibration-of-CT-system-and-image-reconstruction/raw/master/img/tu3.bmp" >  </center></td>
+    </tr>
+</table>
